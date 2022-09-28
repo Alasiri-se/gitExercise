@@ -1,4 +1,8 @@
 test file
+<<<<<<< HEAD
 on new branch new changes
 just some new adds
 this is one the master
+=======
+some new changes on the newone branch
+>>>>>>> newone
